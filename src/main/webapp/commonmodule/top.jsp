@@ -1,12 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>Insert title here</title>
-</head>
-<body>
-
-</body>
-</html>
+<a href="Ex11_Site_Main.jsp">Main</a>&nbsp;&nbsp;&nbsp;||
+<a href="Ex11_Site_Board.jsp">Board</a>&nbsp;&nbsp;&nbsp;||
+<a href="#">Intro_1</a>&nbsp;&nbsp;&nbsp;||
+<a href="#">Intro_2</a>&nbsp;&nbsp;&nbsp;||
+<a href="#">방명록</a>
